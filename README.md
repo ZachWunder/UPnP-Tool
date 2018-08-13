@@ -6,6 +6,8 @@
 - See action arguments
 
 ## Setup
+Yarn is a requirement to run this tool. NPM or other package managers will not work.
+Install yarn [here](https://yarnpkg.com/en/docs/install).
 ```
 1. Clone this repository
 2. cd to local repo
